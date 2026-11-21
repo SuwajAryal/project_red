@@ -3,7 +3,7 @@
 ## Goal
 Build a small, original 2D action-platformer in Python, inspired by the running, jumping, and shooting we loved in Mega Man. This is a fun learning project: make something playable early, understand each feature, and improve it together.
 
-**Current stage:** planning only. No playable game or dependencies installed yet.
+**Current stage:** three playable taste samples implemented in `game.py`; see README.md and docs/SAMPLES.md. They include movement, platform collisions, practice-target shooting, and three real PixelFX exports. Full enemy combat and a scrolling level remain future work.
 
 ## First playable version
 One short industrial training level with a robot hero, platforms, a basic blaster, one enemy type, health, restart, and an exit. Aim for a few minutes of play.
@@ -120,5 +120,5 @@ Use focused automated tests for collision, damage/cooldowns, and animation timin
 A boss, dash, charge shot, controller support, extra levels, and weapon upgrades can follow the first complete level. Multiplayer, a level editor, and procedural worlds are outside the first demo.
 
 ## Next session
-Implement milestone 1: open a window and make a placeholder hero run and jump.
+Play the three taste samples, select a movement and visual direction, then add a patrolling enemy and health.
 
