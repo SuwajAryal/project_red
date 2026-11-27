@@ -2,6 +2,8 @@
 
 A fun Python action-platformer learning project inspired by Mega Man, with PixelFX effects.
 
+## Playable samples
+
 Three playable taste samples are ready. Run, jump, and shoot three practice targets while comparing movement and art directions.
 
 | Key | Sample | Feel |
